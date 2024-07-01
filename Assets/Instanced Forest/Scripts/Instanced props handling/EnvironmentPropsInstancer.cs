@@ -96,17 +96,17 @@ public class EnvironmentPropsInstancer
             // Iterate over every submesh of each mesh
             for(int i = 0; i < m_SubMeshIndices[idx].Length; i++) {
                 Graphics.DrawMeshInstanced(
-                m_MeshesUsingThisMaterial[idx]
-                , m_SubMeshIndices[idx][i]
-                , m_SharedMaterial
-                , m_AllPropGroups[m_MeshNames[idx]]
-                , m_AllPropGroups[m_MeshNames[idx]].Length
-                , persistentRenderParams.matProps
-                , doCastShadows
-                , doReceiveShadows
-                , m_RenderingLayerNumber
-                , mainCam
-                , lightProbeUsage);
+                    m_MeshesUsingThisMaterial[idx]
+                    , m_SubMeshIndices[idx][i]
+                    , m_SharedMaterial
+                    , m_AllPropGroups[m_MeshNames[idx]]
+                    , m_AllPropGroups[m_MeshNames[idx]].Length
+                    , persistentRenderParams.matProps
+                    , doCastShadows
+                    , doReceiveShadows
+                    , m_RenderingLayerNumber
+                    , mainCam
+                    , lightProbeUsage);
             }
             idx++;
         }

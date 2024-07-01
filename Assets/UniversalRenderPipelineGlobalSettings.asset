@@ -20,7 +20,7 @@ MonoBehaviour:
   - Light Layer 3
   - Light Layer 4
   - Light Layer 5
-  - Light Layer 6
+  - Instanced geometry
   - Light Layer 7
   m_ValidRenderingLayers: 255
   lightLayerName0: Light Layer default
