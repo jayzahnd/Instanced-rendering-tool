@@ -50,7 +50,8 @@ public class EnvironmentInstancerController : MonoBehaviour
         // NOTE: This should be independent from GameManager run state. Pausing this will stop all prop rendering
 
         // We assume the mesh groups will be built no need to check at this stage.
-        for (int i = 0; i < m_PropMeshGroups.Length; i++)
+        int propMeshCount = m_PropMeshGroups.Length;
+        for (int i = 0; i < propMeshCount; i++)
         {
             m_PropMeshGroups[i].InstancerUpdate();
         }

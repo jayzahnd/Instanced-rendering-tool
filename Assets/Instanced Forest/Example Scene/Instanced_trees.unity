@@ -186,16 +186,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground -1 -1
       objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -515,7 +505,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1166,16 +1156,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground -1 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1243,16 +1223,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground 1 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1492,16 +1462,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground 0 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1683,7 +1643,7 @@ Camera:
   m_GameObject: {fileID: 961739749}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -1819,16 +1779,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground -1 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2013,16 +1963,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground 1 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2811,16 +2751,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground 1 -1
       objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2974,16 +2904,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ground 0 -1
       objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3117,16 +3037,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground 0 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4563430250366590205, guid: 281cad96cd719084684dcddc9a0087fe,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
