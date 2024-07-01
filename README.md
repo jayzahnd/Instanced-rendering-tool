@@ -1,7 +1,10 @@
 
 # Unity instanced geometry converion tool.
 
-This tool can be used to quickly convert scene objects into instanced geometry. 
+![Screenshot  CUTOUT small](https://github.com/jayzahnd/Instanced-rendering-tool/assets/54983110/cf220fc7-82f3-4902-a41f-184060f8fa05)
+
+This tool serves as a demonstration of how to use `Graphics.DrawMeshInstanced` for objects made up of potentially multiple sub-meshes and materials. I did not use `Graphics.RenderMeshInstanced` due to a bug on some older versions of Unity (such as 2021.3.19f1) that caused significant garbage generation.  
+The `InstantiableProp` component is also provided to quickly convert scene objects into instanced geometry. 
 
 ## Setting up objects that you want instanced.
 
