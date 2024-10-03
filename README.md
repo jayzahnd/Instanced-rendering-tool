@@ -1,5 +1,5 @@
 
-# Unity instanced geometry converion tool.
+# Unity instanced geometry conversion tool.
 
 ![Screenshot  CUTOUT small](https://github.com/jayzahnd/Instanced-rendering-tool/assets/54983110/cf220fc7-82f3-4902-a41f-184060f8fa05)
 
